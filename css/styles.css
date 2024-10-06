@@ -4699,7 +4699,7 @@ html.no-csstransitions .s-hero__content {
 .s-contact {
     background-color: var(--color-1);
     padding-top: calc(3 * var(--space));
-    padding-bottom: var(--vspace-0.25);
+    padding-bottom: var(--vspace-0.1);
 }
 
 .s-contact__top .h6 {
